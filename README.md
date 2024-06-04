@@ -1,6 +1,6 @@
 ## Rust MDMA Cheat
 
-A little DMA cheat for Rust. Some basic functions. A basic and easy to update SDK.
+A little MDMA cheat for Rust. Some basic functions. A basic and easy to update SDK.
 
 ![r1](https://github.com/BartFortener/RustMdmaCheat/assets/171747016/bffa0027-0112-4545-a819-334aa6af7144)
 
